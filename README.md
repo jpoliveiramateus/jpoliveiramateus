@@ -11,4 +11,5 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 ### Front-end
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
