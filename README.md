@@ -8,7 +8,7 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
+### Front-end
 <div>
-  <h1>Front-end</ h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="50px" />
 </div>
