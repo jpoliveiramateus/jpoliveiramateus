@@ -1,5 +1,5 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is João Pedro 🧑‍💻!
+## 👋 Olá! Bem-vindo ao meu perfil no Github.
+### Meu nome é João Pedro 🧑‍💻!
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
