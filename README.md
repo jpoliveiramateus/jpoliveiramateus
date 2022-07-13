@@ -9,5 +9,6 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 </div>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <h1>Front-end</ h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
 </div>
