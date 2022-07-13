@@ -8,4 +8,4 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<i class="devicon-react-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
