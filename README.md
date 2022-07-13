@@ -8,8 +8,7 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Linguages
-
+### Linguagens
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
@@ -29,7 +28,6 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 <hr />
 
 ### Testes
-
 <div>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
@@ -38,10 +36,11 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
 <hr />
 
 ### Ferramentas
-
 <div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
