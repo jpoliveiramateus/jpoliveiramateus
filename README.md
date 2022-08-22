@@ -44,4 +44,5 @@ Sou um entusiasta da tecnologia, gosto de resolver problemas no mundo da program
   <img src="https://alefevariani.files.wordpress.com/2016/03/dockerlogo.png"  width="70px" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
