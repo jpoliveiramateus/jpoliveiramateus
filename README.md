@@ -1,4 +1,4 @@
-## <👋 Olá, Bem-vindo ao meu perfil no Github!>
+## < 👋 Olá, Bem-vindo ao meu perfil no Github! />
 ### Meu nome é João Pedro 👨‍💻!
 
 Desenvolvedor Front-end, entusiasta da tecnologia, atualmente buscando a primeira oportunidade na área, estudante de desenvolvimento Full Stack na Trybe.
