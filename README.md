@@ -7,8 +7,6 @@ Sou desenvolvedor Front-end, apaixonado por programação desde o primeiro "Hell
 - ✍️ Buscando aprimorar minhas habilidades técnicas e soft-skills.
 - 🎓 Estudante de desenvolvimento Web Full Stack na Trybe.
 
-<a href="https://jpoliveiramateus.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-af87ff?style=for-the-badge&logoColor=ffffff&link=jpoliveiramateus.vercel.app"></a>
-
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveiramateus&layout=compact&langs_count=7&theme=github_dark"/>
