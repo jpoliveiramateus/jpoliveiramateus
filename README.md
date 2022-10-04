@@ -8,8 +8,8 @@ Sou desenvolvedor Front-end, apaixonado por programação desde o primeiro "Hell
 - 🎓 Estudante de desenvolvimento Web Full Stack na Trybe.
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveiramateus&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveiramateus&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ----
