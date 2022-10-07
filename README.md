@@ -1,7 +1,6 @@
 ## < 👋 Olá, Bem-vindo ao meu perfil no Github! />
-### Meu nome é João Pedro 👨‍💻!
 
-Sou desenvolvedor Front-end, apaixonado por programação desde o primeiro "Hello, World!". Estou sempre em busca de novos aprendizados e desafios.
+![Dark Blue Holographic Twitter Header (1)](https://user-images.githubusercontent.com/99822908/194487008-8aa9adc0-ba69-4f7e-8b1b-d988718c94e4.png)
 
 - 🌱 Atualmente estou estudando TypeScript | Desenvolvimento Back-end.
 - ✍️ Buscando aprimorar minhas habilidades técnicas e soft-skills.
