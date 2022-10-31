@@ -1,6 +1,6 @@
 ## < 👋 Olá, Bem-vindo ao meu perfil no Github! />
 
-![Dark Blue Holographic Twitter Header (1)](https://user-images.githubusercontent.com/99822908/194487008-8aa9adc0-ba69-4f7e-8b1b-d988718c94e4.png)
+![wallpaper (1)](https://user-images.githubusercontent.com/99822908/199005345-95e58b20-f717-4a3b-b396-70090f6cd5f2.png)
 
 - 🌱 Atualmente estou estudando TypeScript | Desenvolvimento Back-end.
 - ✍️ Buscando aprimorar minhas habilidades técnicas e soft-skills.
