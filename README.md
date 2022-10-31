@@ -2,7 +2,7 @@
 
 ![wallpaper (1)](https://user-images.githubusercontent.com/99822908/199005345-95e58b20-f717-4a3b-b396-70090f6cd5f2.png)
 
-- 🌱 Atualmente estou estudando TypeScript | Desenvolvimento Back-end.
+- 🌱 Atualmente estou estudando POO | Desenvolvimento Back-end.
 - ✍️ Buscando aprimorar minhas habilidades técnicas e soft-skills.
 - 🎓 Estudante de desenvolvimento Web Full Stack na Trybe.
 
