@@ -2,11 +2,6 @@
 
 ![wallpaper (1)](https://user-images.githubusercontent.com/99822908/199005345-95e58b20-f717-4a3b-b396-70090f6cd5f2.png)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiramateus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveiramateus&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
 ----
 
 ### Linguagens:
